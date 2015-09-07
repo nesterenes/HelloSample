@@ -7,6 +7,14 @@
 *.userosscache
 *.sln.docstates
 
+#Ignoring BoltData files
+*.boltdata
+*.GhostDoc.xml
+
+#Ignoring idea
+.idea/
+**/.idea/
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
